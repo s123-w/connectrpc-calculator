@@ -2,7 +2,7 @@
 
 这是一个使用Go和Next.js构建的全栈计算器应用，通过ConnectRPC进行前后端通信。
 
-![应用截图](screenshots/calculator-screenshot.png)
+![应用截图](screenshots/calculator-screenshot.jpg)
 
 ## 功能特点
 
